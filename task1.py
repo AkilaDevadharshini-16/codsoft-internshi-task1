@@ -1,7 +1,7 @@
 import json
 import os
 
-# File to store the tasks
+
 TASKS_FILE = 'tasks.json'
 
 def load_tasks():
